@@ -16,6 +16,10 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  text-align: center;
+}
+
 img {
   width: 100%;
   display: inline-block;
@@ -58,7 +62,6 @@ img:nth-child(even) {
 
   img {
     width: 24%;
-    align-self: center;
   }
 
 }
